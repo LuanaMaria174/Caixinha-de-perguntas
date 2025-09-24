@@ -23,3 +23,9 @@ CriaCartão(
     'Deus não perdoa pecados graves e repetitivos?',
     'Não, idependente da gravidade do pecado, e a quantidade de vezes cometida, o coração de Deus é infinitamente misericordioso para conosco, e desconfiar da sua misericórdia o machuca mais que cometeter um pecado mortal'
 )
+CriaCartão(
+   'Igreja católica?',
+   'A igreja Católica é a única verdadeira?',
+   'Sim, apesar das "outras igrejas" adorarem e creem no mesmo Deus, nenhuma outra reconhece a Mãe de Deus, e a adoração da Eucaristia, ou adota os sacramentos.'
+
+)
