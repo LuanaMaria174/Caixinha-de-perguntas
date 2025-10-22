@@ -15,9 +15,16 @@ function CriaCartão( categoria, pergunta, resosta) {
                     </div> 
 `
 container.appendChil(cartão)
-}
+
 
 let respostaEstaVisivel = false
-function viraCartão
-                
+function viraCartão() {
+    respostaEstaVisivel = !respostaEstaVisivel
+    CriaCartão.cassList.toggle('ative'), respostaEstaVisivel
+
+}
+cartão.addEventListener('click', viraCartão)
+
+
+}
                 
